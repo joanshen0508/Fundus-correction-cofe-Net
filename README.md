@@ -11,8 +11,20 @@ You also could refer your own requirement and simulate specific images by settin
 
 The code of our Cofe-Net will also be released soon.
 
-![](./img/101_left.png =100)![image](./img/106_left.png)![image](./img/1060_right.png)![image](./img/1125_left.png)![image](./img/101_left_fuse.png)![image](./img/106_left_fuse.png)![image](./img/1060_right_fuse.png)![image](./img/1125_left_fuse.png)
+<img src="./img/101_left.png =100" width = "200" height = "200" align=center />
+<img src="./img/1060_right.png =100" width = "200" height = "200" align=center />
+<img src="./img/101_left.png =100" width = "200" height = "200" align=center />
+<img src="./img/1125_left.png =100" width = "200" height = "200" align=center />
+<img src="./img/101_left_fuse.png =100" width = "200" height = "200" align=center />
+<img src="./img/106_left_fuse.png =100" width = "200" height = "200" align=center />
+<img src="./img/1060_right_fuse.png =100" width = "200" height = "200" align=center />
+<img src="./img/1125_left_fuse.png =100" width = "200" height = "200" align=center />
 
-![image](./img/10079_right.png)![image](./img/10084_left.png)![image](./img/10089_left.png)![image](./img/10106_left.png)![image](./img/10079_right_fuse.png)![image](./img/10084_left_fuse.png)![image](./img/10089_left_fuse.png)![image](./img/10106_left_fuse.png)
-
-<img src="./img/10084_left.png" width = "300" height = "200" align=center />
+<img src="./img/10079_right.png =100" width = "200" height = "200" align=center />
+<img src="./img/10084_left.png =100" width = "200" height = "200" align=center />
+<img src="./img/10089_left.png =100" width = "200" height = "200" align=center />
+<img src="./img/10106_left.png =100" width = "200" height = "200" align=center />
+<img src="./img/10079_right_fuse.png =100" width = "200" height = "200" align=center />
+<img src="./img/10084_left_fuse.png =100" width = "200" height = "200" align=center />
+<img src="./img/10089_left_fuse.png =100" width = "200" height = "200" align=center />
+<img src="./img/10106_left_fuse.png =100" width = "200" height = "200" align=center />
