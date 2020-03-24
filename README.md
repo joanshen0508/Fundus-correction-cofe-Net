@@ -11,7 +11,7 @@ You also could refer your own requirement and simulate specific images by settin
 
 The code of our Cofe-Net will also be released soon.
 
-<img src="./img/101_left.png =100" width = "200" height = "200" align=center />
+<img src="./img/101_left.png" width = "100" height = "100" align=center />
 <img src="./img/1060_right.png =100" width = "200" height = "200" align=center />
 <img src="./img/101_left.png =100" width = "200" height = "200" align=center />
 <img src="./img/1125_left.png =100" width = "200" height = "200" align=center />
