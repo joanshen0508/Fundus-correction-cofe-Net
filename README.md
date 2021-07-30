@@ -24,8 +24,8 @@ Here we release the model and some ablation study experiments we implements, whi
 
 encode_decode_res: multi-scale enhancent network, constrained by solely content loss.
 
-encode_decode_vessel_res: multi-scale enhancement newtork, which is embeded another single-scale vessel segmentation feature.
+encode_decode_vessel_res: multi-scale enhancement newtork, which is embeded another single-scale vessel segmentation feature(RSA module).
 
-encode_decode_vessel_2scale_share_res: multi-scale enhancement newtork, which is embeded another multi-scale vessel segmentation feature.
+encode_decode_vessel_2scale_share_res: multi-scale enhancement newtork, which is embeded another multi-scale vessel segmentation feature(RSA module).
 
-encode_decode_vessel_2scale_share_res_atten: multi-scale enhancement network, which is embedded a multi-scale vessel segmentation feature and a attention module.
+encode_decode_vessel_2scale_share_res_atten: multi-scale enhancement network, which is embedded a multi-scale vessel segmentation feature(RSA module) and a attention module(LQA module).
