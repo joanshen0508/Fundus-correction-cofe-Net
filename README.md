@@ -19,3 +19,9 @@ The code of our Cofe-Net will also be released soon.
 <img src="./img/101_left.png" width = "100" height = "100" align=center /><img src="./img/1060_right.png" width = "100" height = "100" align=center /><img src="./img/101_left.png" width = "100" height = "100" align=center /><img src="./img/1125_left.png" width = "100" height = "100" align=center /> <img src="./img/101_left_fuse.png" width = "100" height = "100" align=center /><img src="./img/106_left_fuse.png" width = "100" height = "100" align=center /><img src="./img/1060_right_fuse.png" width = "100" height = "100" align=center /><img src="./img/1125_left_fuse.png" width = "100" height = "100" align=center />
 
 <img src="./img/10079_right.png" width = "100" height = "100" align=center /><img src="./img/10084_left.png" width = "100" height = "100" align=center /><img src="./img/10089_left.png" width = "100" height = "100" align=center /><img src="./img/10106_left.png" width = "100" height = "100" align=center /> <img src="./img/10079_right_fuse.png" width = "100" height = "100" align=center /><img src="./img/10084_left_fuse.png" width = "100" height = "100" align=center /><img src="./img/10089_left_fuse.png" width = "100" height = "100" align=center /><img src="./img/10106_left_fuse.png" width = "100" height = "100" align=center />
+
+Here we release the model and some ablation study experiments we implements, which include:
+encode_decode_res
+encode_decode_vessel_res
+encode_decode_vessel_2scale_share_res
+encode_decode_vessel_2scale_share_res_atten
