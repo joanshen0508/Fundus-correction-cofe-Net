@@ -20,16 +20,16 @@ The code of our Cofe-Net will also be released soon.
 
 <img src="./img/10079_right.png" width = "100" height = "100" align=center /><img src="./img/10084_left.png" width = "100" height = "100" align=center /><img src="./img/10089_left.png" width = "100" height = "100" align=center /><img src="./img/10106_left.png" width = "100" height = "100" align=center /> <img src="./img/10079_right_fuse.png" width = "100" height = "100" align=center /><img src="./img/10084_left_fuse.png" width = "100" height = "100" align=center /><img src="./img/10089_left_fuse.png" width = "100" height = "100" align=center /><img src="./img/10106_left_fuse.png" width = "100" height = "100" align=center />
 
-## Here we release the model we implements, which include:
+### Here we release the model we implements, which include:
 
-encode_decode_vessel_2scale_share_res_atten: multi-scale enhancement network, which is embedded a multi-scale vessel segmentation feature(RSA module) and a attention module(LQA module).
+#### encode_decode_vessel_2scale_share_res_atten: multi-scale enhancement network, which is embedded a multi-scale vessel segmentation feature(RSA module) and a attention module(LQA module).
 
 Please test the image in imgs folder, which includes the low-quality images and masks. The test images are seletected from KAGGLE dataset.
 
 The release code also include the network achitectures, which are applied in ablation study, please refer to the newtworks.
 
-encode_decode_res: multi-scale enhancent network, constrained by solely content loss.
+#### encode_decode_res: multi-scale enhancent network, constrained by solely content loss.
 
-encode_decode_vessel_res: multi-scale enhancement newtork, which is embeded another single-scale vessel segmentation feature(RSA module).
+#### encode_decode_vessel_res: multi-scale enhancement newtork, which is embeded another single-scale vessel segmentation feature(RSA module).
 
-encode_decode_vessel_2scale_share_res: multi-scale enhancement newtork, which is embeded another multi-scale vessel segmentation feature(RSA module).
+#### encode_decode_vessel_2scale_share_res: multi-scale enhancement newtork, which is embeded another multi-scale vessel segmentation feature(RSA module).
