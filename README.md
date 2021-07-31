@@ -1,4 +1,8 @@
-# Understanding, Modeling, and Correcting Low-quality Retinal Fundus Images for Clinical Observation and Analysis
+# Modeling and Enhancing Low-Quality Retinal Fundus Images
+
+**Understanding, Modeling, and Correcting Low-quality Retinal Fundus Images for Clinical Observation and Analysis
+
+
 
 [Ziyi Shen](https://sites.google.com/site/ziyishenmi/), [Huazhu Fu](https://hzfu.github.io/), [Jianbin Shen](http://iitlab.bit.edu.cn/mcislab/~shenjianbing/), and [Ling Shao](https://scholar.google.com/citations?user=z84rLjoAAAAJ&hl=en)
 
