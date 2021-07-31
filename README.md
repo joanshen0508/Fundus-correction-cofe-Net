@@ -26,7 +26,8 @@ The code of our Cofe-Net will also be released soon.
 multi-scale enhancement network, which is embedded a multi-scale vessel segmentation feature(RSA module) and a attention module(LQA module).
 
 ```
-Please test the image in imgs folder, which includes the low-quality images and masks. The test images are seletected from KAGGLE dataset.
+# The test images are seletected from KAGGLE dataset, if you want to know more about the dataset, please download from homepage.
+Please test the image in imgs folder, which includes the low-quality images and masks. 
 
 Run test.py
 ```
