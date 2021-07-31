@@ -25,11 +25,12 @@ The code of our Cofe-Net will also be released soon.
 #### encode_decode_vessel_2scale_share_res_atten: 
 multi-scale enhancement network, which is embedded a multi-scale vessel segmentation feature(RSA module) and a attention module(LQA module).
 
+1. download the vessel feature extraction model and enhacement model, add in the main path.
 ```
 # The test images are seletected from KAGGLE dataset, if you want to know more about the dataset, please download from homepage.
-Please test the image in imgs folder, which includes the low-quality images and masks. 
+2. Please test the image in imgs folder, which includes the low-quality images and masks. 
 
-Run test.py
+3. Run test.py
 ```
 
 
