@@ -31,6 +31,8 @@ multi-scale enhancement network, which is embedded a multi-scale vessel segmenta
 2. Please test the image in imgs folder, which includes the low-quality images and masks. 
 
 3. Run test.py
+
+4. The degradation model can be found in ./degradation_code
 ```
 
 
