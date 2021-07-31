@@ -25,7 +25,12 @@ The code of our Cofe-Net will also be released soon.
 #### encode_decode_vessel_2scale_share_res_atten: 
 multi-scale enhancement network, which is embedded a multi-scale vessel segmentation feature(RSA module) and a attention module(LQA module).
 
+```
 Please test the image in imgs folder, which includes the low-quality images and masks. The test images are seletected from KAGGLE dataset.
+
+Run test.py
+```
+
 
 The release code also include the network achitectures, which are applied in ablation study, please refer to the newtworks.
 
@@ -37,3 +42,21 @@ multi-scale enhancement newtork, which is embeded another single-scale vessel se
 
 #### encode_decode_vessel_2scale_share_res: 
 multi-scale enhancement newtork, which is embeded another multi-scale vessel segmentation feature(RSA module).
+
+
+
+
+
+### Citation 
+```
+@article{deep_reitna_enhance,
+  title={Modeling and Enhancing Low-Quality Retinal Fundus Images},
+  author={Shen, Ziyi and Fu, Huazhu and Shen, Jianbing and Shao, Ling},
+  journal={IEEE Transactions on Medical Imaging},
+  volume={40},
+  number={3},
+  pages={996--1006},
+  year={2020},
+  publisher={IEEE}
+}
+```
